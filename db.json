@@ -1,6 +1,6 @@
 {
     "scenes": {
-    "list": {
+    "list": 
         [
             {
                 "id": 1,
@@ -45,7 +45,6 @@
                 "is_active": 0
             }
         ]
-    }
     },
     "order": {
       "status": {
