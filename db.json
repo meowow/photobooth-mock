@@ -1,48 +1,52 @@
 {
-    "scenes": [
-        {
-            "id": 1,
-            "name": "Scene 1",
-            "price": 56,
-            "is_active": 1
-        },
-        {
-            "id": 2,
-            "name": "Scene 2",
-            "price": 700,
-            "is_active": 1
-        },
-        {
-            "id": 3,
-            "name": "Scene 3",
-            "price": 100,
-            "is_active": 1
-        },
-        {
-            "id": 4,
-            "name": "Scene 4",
-            "price": 120,
-            "is_active": 1
-        },
-        {
-            "id": 5,
-            "name": "Scene 5",
-            "price": 100,
-            "is_active": 1
-        },
-        {
-            "id": 6,
-            "name": "Scene 6",
-            "price": 100,
-            "is_active": 1
-        },
-        {
-            "id": 7,
-            "name": "Scene 7",
-            "price": 100,
-            "is_active": 0
-        }
-    ],
+    "scenes": {
+    "list": {
+        [
+            {
+                "id": 1,
+                "name": "Scene 1",
+                "price": 56,
+                "is_active": 1
+            },
+            {
+                "id": 2,
+                "name": "Scene 2",
+                "price": 700,
+                "is_active": 1
+            },
+            {
+                "id": 3,
+                "name": "Scene 3",
+                "price": 100,
+                "is_active": 1
+            },
+            {
+                "id": 4,
+                "name": "Scene 4",
+                "price": 120,
+                "is_active": 1
+            },
+            {
+                "id": 5,
+                "name": "Scene 5",
+                "price": 100,
+                "is_active": 1
+            },
+            {
+                "id": 6,
+                "name": "Scene 6",
+                "price": 100,
+                "is_active": 1
+            },
+            {
+                "id": 7,
+                "name": "Scene 7",
+                "price": 100,
+                "is_active": 0
+            }
+        ]
+    }
+    },
     "order": {
       "status": {
         "created": true,
